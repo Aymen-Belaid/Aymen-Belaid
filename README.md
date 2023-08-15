@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aymen-Belaid
-- 👀 I’m interested in Embedded Systems
-- 🐱‍🏍 Excited to explore new technologies and always will be ! 
+- ⚙️ I’m interested in Embedded Systems
+- 💡 Excited to explore new technologies and always will be ! 
 - 🎥 Passionate about cinema and filmography
 - 📬 Reach out to me!<br/>
         -> 📧 aymenbelaid@gmail.com </br>
